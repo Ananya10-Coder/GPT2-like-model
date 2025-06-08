@@ -1,4 +1,5 @@
 # GPT-2-like Model from Scratch
+https://github.com/Ananya10-Coder/Image-Classification/blob/main/GPT2LikeModel.ipynb
 
 This project implements a simplified version of the GPT-2 model from scratch using PyTorch. It includes training the model on a small subset of the WikiText-2 dataset, fine-tuning it on the IMDB dataset for sentiment analysis, applying Reinforcement Learning with Human Feedback (RLHF), and generating text for evaluation.
 
